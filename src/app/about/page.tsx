@@ -22,7 +22,7 @@ function About() {
             <li>Masters(C.S)</li>
             <li>Three years D.A.E in C.I.T</li></ul>
             <h2  className='text-blue-700 text-2xl '>Skill</h2>
-          <ul className='list-disc ml-10'><li>I'm full stack developer</li>
+          <ul className='list-disc ml-10'><li>I am full stack developer</li>
           </ul>
           
           <p className='text-lg'>
