@@ -13,8 +13,8 @@ function About() {
         
         <h1 className=" text-4xl font-bold mb-4 text-center text-blue-600  bg-pink-300 hover:text-yellow-300" >About Us</h1>
         
-        <p className='text-lg mb-4 text-center'>Welcome to my  portfolio!I'm dedicating to providing top-notch services and delivering  quality solutions that meet ourclients' needs.
-          is passionate about what i do,and i strive  to go above and beyond in  every
+        <p className='text-lg mb-4 text-center'>Welcome to my  portfolio!I am dedicating to providing top-notch services and delivering  quality solutions that meet ourclients&apos; needs.
+          is passionate about what i do&apos;and i strive  to go above and beyond in  every
           projects i undertake.</p>
           
           <h2  className='text-blue-700 text-2xl '>Education</h2>
@@ -26,8 +26,8 @@ function About() {
           </ul>
           
           <p className='text-lg'>
-            With  years  of experience,I am  committed to innovation,intigrity,
-            and   excellence.Thank you for visiting, and  I look forward to working together!
+            With  years  of experience.I am  committed to innovation&apos;intigrity
+            and   excellence.Thank you for visiting and  I look forward to working together!
           </p>
       </div>
     </div>
